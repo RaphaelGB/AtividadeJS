@@ -1,0 +1,42 @@
+/* Cabeçalho */
+#linkNavbar{
+    padding-left: 10px;
+}
+
+/* Main */
+
+#MainContainer{
+    display: flex;
+    flex-flow: row wrap;
+    align-items: center;
+    justify-content: space-around;
+}
+
+h1, h2{
+    text-align: center;
+    margin-top: 4.5%;
+}
+.card{ 
+    margin-top: 3.5%;
+    margin-bottom: 3%;
+}
+.ImgSobre1{
+    margin-left: 31%;
+}
+.ImgSobre2{
+    margin-left: 35%;
+}
+/* Footer */
+#containerFooter{
+    background:#2c5192 ;
+    border-top: 2.5px solid #000;
+}
+
+#containerFooter p{
+    margin: 0.3rem;
+    color: white;
+font-size: 18px;
+}
+
+
+

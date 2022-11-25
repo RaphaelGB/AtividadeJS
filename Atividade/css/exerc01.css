@@ -1,0 +1,17 @@
+body, header, section{
+    display: flex;
+    flex-flow: column;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+p {
+    text-align: justify;
+}
+input{
+    border-radius: 02px;
+}
+
+#numeros{
+font-size: 30px;
+}

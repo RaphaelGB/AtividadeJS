@@ -1,0 +1,21 @@
+body{
+    display: flex;
+    flex-flow: column;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+input{
+    display: block;
+    margin-bottom: 30px;
+
+}
+
+button{
+    margin-top: 10px;
+    margin-bottom: 2%;
+}
+
+button:hover{
+    cursor:pointer;
+}
